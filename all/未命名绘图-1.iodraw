@@ -103,7 +103,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="jBu3OXELXWUWRT1D5uQo-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="jBu3OXELXWUWRT1D5uQo-38" target="jBu3OXELXWUWRT1D5uQo-23">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="480" y="480" />
+              <mxPoint x="520" y="480" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="jBu3OXELXWUWRT1D5uQo-38" value="&lt;font style=&quot;font-size: 11px;&quot; face=&quot;Times New Roman&quot;&gt;kb_experiments&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 9px;&quot;&gt;复现实验/验证记录&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=30;" vertex="1" parent="1">
           <mxGeometry x="360" y="460" width="120" height="200" as="geometry" />
