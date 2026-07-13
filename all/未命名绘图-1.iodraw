@@ -7,6 +7,9 @@
         <mxCell id="jBu3OXELXWUWRT1D5uQo-8" value="&lt;font face=&quot;Times New Roman&quot;&gt;kb_records&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;知识库主记录(一条CVE对应一条记录)&lt;/font&gt;&lt;/div&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=30;" vertex="1" parent="1">
           <mxGeometry x="30" y="20" width="210" height="200" as="geometry" />
         </mxCell>
+        <mxCell id="jBu3OXELXWUWRT1D5uQo-9" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="100" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
