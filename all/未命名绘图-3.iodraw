@@ -230,7 +230,7 @@
         <mxCell id="RD9zDMc17LQN0rB9lxzA-123" value="kb_rule_evaluations" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B1DDF0;strokeColor=#000000;container=0;" vertex="1" parent="1">
           <mxGeometry x="230" y="630" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="RD9zDMc17LQN0rB9lxzA-124" value="kb_expl" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B1DDF0;strokeColor=#000000;container=0;" vertex="1" parent="1">
+        <mxCell id="RD9zDMc17LQN0rB9lxzA-124" value="kb_" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B1DDF0;strokeColor=#000000;container=0;" vertex="1" parent="1">
           <mxGeometry x="130" y="700" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
