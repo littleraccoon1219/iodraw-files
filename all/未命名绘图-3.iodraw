@@ -58,7 +58,7 @@
         <mxCell id="RD9zDMc17LQN0rB9lxzA-34" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;宋体&quot;&gt;3.核心知识实体&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontStyle=1;fontColor=#000000;" vertex="1" parent="RD9zDMc17LQN0rB9lxzA-35">
           <mxGeometry x="160" y="4" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="RD9zDMc17LQN0rB9lxzA-36" value="kb_record_identifiers" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B1DDF0;strokeColor=#10739e;" vertex="1" parent="1">
+        <mxCell id="RD9zDMc17LQN0rB9lxzA-36" value="kb_taxonomy_versions" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B1DDF0;strokeColor=#10739e;" vertex="1" parent="1">
           <mxGeometry x="270" y="90" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RD9zDMc17LQN0rB9lxzA-37" value="kb_record_identifiers" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B1DDF0;strokeColor=#10739e;" vertex="1" parent="1">
