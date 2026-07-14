@@ -215,9 +215,6 @@
         <mxCell id="RD9zDMc17LQN0rB9lxzA-114" value="kb_rule_evidence" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B1DDF0;strokeColor=#000000;container=0;" vertex="1" parent="1">
           <mxGeometry x="100" y="630" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="RD9zDMc17LQN0rB9lxzA-115" value="kb_products" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B1DDF0;strokeColor=#000000;container=0;" vertex="1" parent="1">
-          <mxGeometry x="175" y="700" width="80" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="RD9zDMc17LQN0rB9lxzA-116" value="kb_products" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B1DDF0;strokeColor=#000000;container=0;" vertex="1" parent="1">
           <mxGeometry x="100" y="780" width="80" height="30" as="geometry" />
         </mxCell>
@@ -232,6 +229,9 @@
         </mxCell>
         <mxCell id="RD9zDMc17LQN0rB9lxzA-123" value="kb_rule_evaluations" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B1DDF0;strokeColor=#000000;container=0;" vertex="1" parent="1">
           <mxGeometry x="230" y="630" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RD9zDMc17LQN0rB9lxzA-124" value="kb_environments_snapshots" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B1DDF0;strokeColor=#000000;container=0;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="640" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
