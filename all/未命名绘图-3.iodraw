@@ -309,7 +309,7 @@
           <mxGeometry x="1220" y="240" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RD9zDMc17LQN0rB9lxzA-149" value="&lt;span style=&quot;text-align: start;&quot;&gt;kb_assertion_conflicts&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E9DEF8;strokeColor=#000000;container=0;" vertex="1" parent="1">
-          <mxGeometry x="1220" y="300" width="130" height="30" as="geometry" />
+          <mxGeometry x="1210" y="300" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RD9zDMc17LQN0rB9lxzA-150" value="&lt;span style=&quot;text-align: start;&quot;&gt;kb_assertion_conflicts&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E9DEF8;strokeColor=#000000;container=0;" vertex="1" parent="1">
           <mxGeometry x="1220" y="360" width="130" height="30" as="geometry" />
