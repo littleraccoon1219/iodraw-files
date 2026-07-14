@@ -136,7 +136,7 @@
         <mxCell id="RD9zDMc17LQN0rB9lxzA-58" value="kb_ingestion_runs" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#efefd9;strokeColor=#000000;container=0;" vertex="1" parent="RD9zDMc17LQN0rB9lxzA-86">
           <mxGeometry x="10" y="100" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="RD9zDMc17LQN0rB9lxzA-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="RD9zDMc17LQN0rB9lxzA-86" source="RD9zDMc17LQN0rB9lxzA-63">
+        <mxCell id="RD9zDMc17LQN0rB9lxzA-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;shape=link;" edge="1" parent="RD9zDMc17LQN0rB9lxzA-86" source="RD9zDMc17LQN0rB9lxzA-63">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="450" y="115" as="targetPoint" />
           </mxGeometry>
