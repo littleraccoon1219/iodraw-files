@@ -98,7 +98,7 @@
           <mxGeometry x="227.4193548387097" width="125.80645161290323" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RD9zDMc17LQN0rB9lxzA-57" value="kb_products" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B1DDF0;strokeColor=#000000;container=0;" vertex="1" parent="1">
-          <mxGeometry x="120" y="450" width="80" height="30" as="geometry" />
+          <mxGeometry x="120" y="80" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RD9zDMc17LQN0rB9lxzA-58" value="kb_ingestion_runs" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B1DDF0;strokeColor=#000000;container=0;" vertex="1" parent="1">
           <mxGeometry y="520" width="110" height="30" as="geometry" />
