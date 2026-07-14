@@ -52,8 +52,8 @@
         <mxCell id="RD9zDMc17LQN0rB9lxzA-29" value="kb_version_ranges" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B1DDF0;strokeColor=#10739e;" vertex="1" parent="1">
           <mxGeometry x="485" y="580" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="RD9zDMc17LQN0rB9lxzA-34" value="&lt;font style=&quot;font-size: 15px;&quot; face=&quot;宋体&quot;&gt;3.核心知识实体&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontStyle=1;fontColor=#0042aa;" vertex="1" parent="1">
-          <mxGeometry x="430" y="340" width="120" height="30" as="geometry" />
+        <mxCell id="RD9zDMc17LQN0rB9lxzA-34" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;3.核心知识实体&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontStyle=1;fontColor=#0042aa;" vertex="1" parent="1">
+          <mxGeometry x="430" y="340" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
