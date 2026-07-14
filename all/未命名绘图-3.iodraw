@@ -210,7 +210,20 @@
           <mxGeometry x="-90" y="630" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RD9zDMc17LQN0rB9lxzA-126" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="RD9zDMc17LQN0rB9lxzA-112" target="RD9zDMc17LQN0rB9lxzA-114">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="220" y="610" />
+              <mxPoint x="155" y="610" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RD9zDMc17LQN0rB9lxzA-127" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RD9zDMc17LQN0rB9lxzA-112" target="RD9zDMc17LQN0rB9lxzA-123">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="220" y="610" />
+              <mxPoint x="290" y="610" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="RD9zDMc17LQN0rB9lxzA-112" value="kb_rules" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B1DDF0;strokeColor=#000000;container=0;" vertex="1" parent="1">
           <mxGeometry x="185" y="570" width="70" height="30" as="geometry" />
