@@ -228,7 +228,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="RD9zDMc17LQN0rB9lxzA-112" value="kb_rules" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;container=0;gradientColor=#7ea6e0;" vertex="1" parent="1">
+        <mxCell id="RD9zDMc17LQN0rB9lxzA-112" value="kb_rules" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;container=0;" vertex="1" parent="1">
           <mxGeometry x="185" y="570" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RD9zDMc17LQN0rB9lxzA-114" value="kb_rule_evidence" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B1DDF0;strokeColor=#000000;container=0;" vertex="1" parent="1">
