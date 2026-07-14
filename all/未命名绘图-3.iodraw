@@ -31,7 +31,7 @@
         <mxCell id="RD9zDMc17LQN0rB9lxzA-14" value="kb_record_identifiers" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B1DDF0;strokeColor=#000000;" vertex="1" parent="RD9zDMc17LQN0rB9lxzA-35">
           <mxGeometry x="10" y="40" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="RD9zDMc17LQN0rB9lxzA-15" value="kb_record_revisions" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B1DDF0;strokeColor=#10739e;" vertex="1" parent="RD9zDMc17LQN0rB9lxzA-35">
+        <mxCell id="RD9zDMc17LQN0rB9lxzA-15" value="kb_record_revisions" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B1DDF0;strokeColor=#000000;" vertex="1" parent="RD9zDMc17LQN0rB9lxzA-35">
           <mxGeometry x="170" y="40" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RD9zDMc17LQN0rB9lxzA-16" value="kb_record_relations" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B1DDF0;strokeColor=#10739e;" vertex="1" parent="RD9zDMc17LQN0rB9lxzA-35">
