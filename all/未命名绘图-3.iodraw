@@ -231,7 +231,7 @@
         <mxCell id="RD9zDMc17LQN0rB9lxzA-112" value="kb_rules" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1f1f2;strokeColor=#0E8088;container=0;" vertex="1" parent="1">
           <mxGeometry x="185" y="570" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="RD9zDMc17LQN0rB9lxzA-114" value="kb_rule_evidence" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B1DDF0;strokeColor=#000000;container=0;" vertex="1" parent="1">
+        <mxCell id="RD9zDMc17LQN0rB9lxzA-114" value="kb_rule_evidence" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E1F1F2;strokeColor=#000000;container=0;" vertex="1" parent="1">
           <mxGeometry x="100" y="630" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RD9zDMc17LQN0rB9lxzA-116" value="&lt;span style=&quot;text-align: start;&quot;&gt;kb_assessment_inputs&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B1DDF0;strokeColor=#000000;container=0;" vertex="1" parent="1">
@@ -261,7 +261,7 @@
             <mxPoint x="320" y="680" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RD9zDMc17LQN0rB9lxzA-123" value="kb_rule_evaluations" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1f1f2;strokeColor=#000000;container=0;" vertex="1" parent="1">
+        <mxCell id="RD9zDMc17LQN0rB9lxzA-123" value="kb_rule_evaluations" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E1F1F2;strokeColor=#000000;container=0;" vertex="1" parent="1">
           <mxGeometry x="230" y="630" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RD9zDMc17LQN0rB9lxzA-125" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="RD9zDMc17LQN0rB9lxzA-124" target="RD9zDMc17LQN0rB9lxzA-116">
@@ -278,7 +278,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="RD9zDMc17LQN0rB9lxzA-124" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;kb_&lt;span style=&quot;text-align: start;&quot;&gt;exploitability_assessments&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B1DDF0;strokeColor=#000000;container=0;" vertex="1" parent="1">
+        <mxCell id="RD9zDMc17LQN0rB9lxzA-124" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;kb_&lt;span style=&quot;text-align: start;&quot;&gt;exploitability_assessments&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E1F1F2;strokeColor=#000000;container=0;" vertex="1" parent="1">
           <mxGeometry x="135" y="708" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RD9zDMc17LQN0rB9lxzA-135" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;宋体&quot;&gt;6.环境感知与可利用性&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontStyle=1;fontColor=#000000;" vertex="1" parent="1">
