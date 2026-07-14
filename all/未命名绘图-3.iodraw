@@ -156,7 +156,7 @@
         <mxCell id="RD9zDMc17LQN0rB9lxzA-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.059;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;strokeWidth=2;" edge="1" parent="1" source="RD9zDMc17LQN0rB9lxzA-71" target="RD9zDMc17LQN0rB9lxzA-33">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RD9zDMc17LQN0rB9lxzA-92" value="kb_record_identifiers" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B1DDF0;strokeColor=#000000;container=0;" vertex="1" parent="1">
+        <mxCell id="RD9zDMc17LQN0rB9lxzA-92" value="kb_annotation_tasks" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B1DDF0;strokeColor=#000000;container=0;" vertex="1" parent="1">
           <mxGeometry x="-50" y="400" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RD9zDMc17LQN0rB9lxzA-93" value="kb_record_identifiers" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B1DDF0;strokeColor=#000000;container=0;" vertex="1" parent="1">
