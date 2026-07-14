@@ -276,8 +276,8 @@
         <mxCell id="RD9zDMc17LQN0rB9lxzA-124" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;kb_&lt;span style=&quot;text-align: start;&quot;&gt;exploitability_assessments&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B1DDF0;strokeColor=#000000;container=0;" vertex="1" parent="1">
           <mxGeometry x="135" y="708" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="RD9zDMc17LQN0rB9lxzA-135" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;宋体&quot;&gt;1.数据库治理与采集&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontStyle=1;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="70" y="184" width="160" height="30" as="geometry" />
+        <mxCell id="RD9zDMc17LQN0rB9lxzA-135" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;宋体&quot;&gt;6.环境感知与可利用性&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontStyle=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="780" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
