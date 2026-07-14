@@ -282,7 +282,7 @@
           <mxGeometry x="135" y="708" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RD9zDMc17LQN0rB9lxzA-135" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;宋体&quot;&gt;6.环境感知与可利用性&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontStyle=1;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="390" y="850" width="180" height="30" as="geometry" />
+          <mxGeometry x="30" y="539" width="180" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
