@@ -59,7 +59,7 @@
           <mxGeometry x="160" y="4" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RD9zDMc17LQN0rB9lxzA-36" value="kb_taxonomy_versions" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B1DDF0;strokeColor=#10739e;" vertex="1" parent="1">
-          <mxGeometry x="270" y="90" width="120" height="30" as="geometry" />
+          <mxGeometry x="250" y="90" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RD9zDMc17LQN0rB9lxzA-37" value="kb_record_identifiers" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B1DDF0;strokeColor=#10739e;" vertex="1" parent="1">
           <mxGeometry x="425" y="90" width="120" height="30" as="geometry" />
