@@ -131,7 +131,7 @@
         <mxCell id="RD9zDMc17LQN0rB9lxzA-64" value="kb_ingestion_items" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B1DDF0;strokeColor=#000000;container=0;" vertex="1" parent="1">
           <mxGeometry x="140" y="130" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="RD9zDMc17LQN0rB9lxzA-70" value="kb_ingestion_runs" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B1DDF0;strokeColor=#000000;container=0;" vertex="1" parent="1">
+        <mxCell id="RD9zDMc17LQN0rB9lxzA-70" value="kb_schema_migrations" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B1DDF0;strokeColor=#000000;container=0;" vertex="1" parent="1">
           <mxGeometry x="20" y="270" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
