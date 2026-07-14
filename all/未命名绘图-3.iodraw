@@ -308,14 +308,14 @@
         <mxCell id="RD9zDMc17LQN0rB9lxzA-148" value="&lt;span style=&quot;text-align: start;&quot;&gt;kb_assertion_evidence&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E9DEF8;strokeColor=#000000;container=0;" vertex="1" parent="1">
           <mxGeometry x="1210" y="260" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="RD9zDMc17LQN0rB9lxzA-149" value="&lt;span style=&quot;text-align: start;&quot;&gt;kb_assertion_evidence&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E9DEF8;strokeColor=#000000;container=0;" vertex="1" parent="1">
+        <mxCell id="RD9zDMc17LQN0rB9lxzA-149" value="&lt;span style=&quot;text-align: start;&quot;&gt;kb_assertion_conflicts&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E9DEF8;strokeColor=#000000;container=0;" vertex="1" parent="1">
           <mxGeometry x="1220" y="340" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RD9zDMc17LQN0rB9lxzA-150" value="&lt;span style=&quot;text-align: start;&quot;&gt;kb_assertion_evidence&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E9DEF8;strokeColor=#000000;container=0;" vertex="1" parent="1">
           <mxGeometry x="1220" y="410" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RD9zDMc17LQN0rB9lxzA-151" value="&lt;span style=&quot;text-align: start;&quot;&gt;kb_assertion_evidence&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E9DEF8;strokeColor=#000000;container=0;" vertex="1" parent="1">
-          <mxGeometry x="1240" y="290" width="130" height="30" as="geometry" />
+          <mxGeometry x="1385" y="340" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
