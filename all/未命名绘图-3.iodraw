@@ -359,8 +359,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="RD9zDMc17LQN0rB9lxzA-166" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;宋体&quot;&gt;3.来源证据与事实断言&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontStyle=1;fontColor=#000000;container=0;" vertex="1" parent="1">
-          <mxGeometry x="1150" y="490" width="130" height="30" as="geometry" />
+        <mxCell id="RD9zDMc17LQN0rB9lxzA-166" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;宋体&quot;&gt;3.来源、证据与事实断言&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontStyle=1;fontColor=#000000;container=0;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="490" width="200" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
