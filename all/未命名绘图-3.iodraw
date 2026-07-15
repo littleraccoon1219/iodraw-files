@@ -399,7 +399,7 @@
           <mxGeometry x="1040" y="460" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RD9zDMc17LQN0rB9lxzA-170" value="&lt;span style=&quot;text-align: start;&quot;&gt;kb_defense_policies&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fddede;strokeColor=#000000;container=0;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="1260" y="460" width="120" height="30" as="geometry" />
+          <mxGeometry x="1264" y="460" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RD9zDMc17LQN0rB9lxzA-171" value="&lt;span style=&quot;text-align: start;&quot;&gt;kb_policy_validations&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fddede;strokeColor=#000000;container=0;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="1450" y="460" width="125" height="30" as="geometry" />
@@ -432,9 +432,6 @@
               <mxPoint x="1182" y="500" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="RD9zDMc17LQN0rB9lxzA-185" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.437;entryY=-0.007;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="RD9zDMc17LQN0rB9lxzA-170" target="RD9zDMc17LQN0rB9lxzA-177">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
