@@ -384,6 +384,9 @@
         <mxCell id="RD9zDMc17LQN0rB9lxzA-170" value="&lt;span style=&quot;text-align: start; font-size: 12px;&quot;&gt;kb_mitigations&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fddede;strokeColor=#000000;container=0;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="1210" y="460" width="90" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="RD9zDMc17LQN0rB9lxzA-171" value="&lt;span style=&quot;text-align: start; font-size: 12px;&quot;&gt;kb_mitigations&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fddede;strokeColor=#000000;container=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="1340" y="460" width="90" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
