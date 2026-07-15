@@ -543,7 +543,7 @@
           <mxGeometry x="560" y="840" width="150" height="29.45" as="geometry" />
         </mxCell>
         <mxCell id="RD9zDMc17LQN0rB9lxzA-232" value="8.可复现实验" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="694" y="1050" width="60" height="30" as="geometry" />
+          <mxGeometry x="694" y="1050" width="116" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
