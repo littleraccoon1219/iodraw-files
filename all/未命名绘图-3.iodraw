@@ -445,8 +445,8 @@
         <mxCell id="RD9zDMc17LQN0rB9lxzA-196" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;宋体&quot;&gt;9.防护、修复与复验&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontStyle=1;fontColor=#000000;container=0;" vertex="1" parent="1">
           <mxGeometry x="1175" y="450" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="RD9zDMc17LQN0rB9lxzA-197" value="&lt;span style=&quot;text-align: start; font-size: 12px;&quot;&gt;kb_mitigations&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fddede;strokeColor=#000000;container=0;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="1080" y="494" width="90" height="29.454545454545453" as="geometry" />
+        <mxCell id="RD9zDMc17LQN0rB9lxzA-197" value="&lt;span style=&quot;text-align: start;&quot;&gt;kb_attack_chains&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fddede;strokeColor=#000000;container=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="390" y="680.36" width="90" height="29.454545454545453" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
