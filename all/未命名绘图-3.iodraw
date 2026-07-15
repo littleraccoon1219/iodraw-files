@@ -445,6 +445,9 @@
         <mxCell id="RD9zDMc17LQN0rB9lxzA-196" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;宋体&quot;&gt;9.防护、修复与复验&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontStyle=1;fontColor=#000000;container=0;" vertex="1" parent="1">
           <mxGeometry x="1175" y="450" width="200" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="RD9zDMc17LQN0rB9lxzA-204" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RD9zDMc17LQN0rB9lxzA-197" target="RD9zDMc17LQN0rB9lxzA-198">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="RD9zDMc17LQN0rB9lxzA-197" value="&lt;span style=&quot;text-align: start;&quot;&gt;kb_attack_chains&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f6fadc;strokeColor=#000000;container=0;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="410" y="680" width="110" height="29.45" as="geometry" />
         </mxCell>
@@ -458,7 +461,7 @@
           <mxGeometry x="460" y="740.55" width="135" height="29.45" as="geometry" />
         </mxCell>
         <mxCell id="RD9zDMc17LQN0rB9lxzA-202" value="&lt;span style=&quot;text-align: start;&quot;&gt;kb_attack_step_conditions&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f6fadc;strokeColor=#000000;container=0;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="660" y="740.55" width="155" height="29.45" as="geometry" />
+          <mxGeometry x="640" y="740.55" width="155" height="29.45" as="geometry" />
         </mxCell>
         <mxCell id="RD9zDMc17LQN0rB9lxzA-203" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="RD9zDMc17LQN0rB9lxzA-199" target="RD9zDMc17LQN0rB9lxzA-199">
           <mxGeometry relative="1" as="geometry" />
