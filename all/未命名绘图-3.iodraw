@@ -393,7 +393,7 @@
         <mxCell id="RD9zDMc17LQN0rB9lxzA-174" value="&lt;span style=&quot;text-align: start;&quot;&gt;kb_mitigation_targets&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fddede;strokeColor=#000000;container=0;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="930" y="510" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="RD9zDMc17LQN0rB9lxzA-175" value="&lt;span style=&quot;text-align: start; font-size: 12px;&quot;&gt;kb_mitigations&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fddede;strokeColor=#000000;container=0;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="RD9zDMc17LQN0rB9lxzA-175" value="&lt;span style=&quot;text-align: start;&quot;&gt;kb_retest_checks&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fddede;strokeColor=#000000;container=0;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="1220" y="680" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RD9zDMc17LQN0rB9lxzA-176" value="&lt;span style=&quot;text-align: start;&quot;&gt;kb_retest_runs&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fddede;strokeColor=#000000;container=0;fontSize=12;" vertex="1" parent="1">
