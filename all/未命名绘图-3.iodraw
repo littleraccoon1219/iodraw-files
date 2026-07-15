@@ -566,6 +566,9 @@
         <mxCell id="RD9zDMc17LQN0rB9lxzA-232" value="8.可复现实验" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="RD9zDMc17LQN0rB9lxzA-236">
           <mxGeometry x="300" width="116" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="RD9zDMc17LQN0rB9lxzA-246" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RD9zDMc17LQN0rB9lxzA-237" target="RD9zDMc17LQN0rB9lxzA-243">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="RD9zDMc17LQN0rB9lxzA-237" value="&lt;span style=&quot;text-align: start;&quot;&gt;kb_split_leakage_audits&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e8eaf1;strokeColor=#000000;container=0;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="1280" y="809" width="140" height="29.45" as="geometry" />
         </mxCell>
