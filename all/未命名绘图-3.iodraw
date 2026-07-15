@@ -386,6 +386,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="RD9zDMc17LQN0rB9lxzA-182" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RD9zDMc17LQN0rB9lxzA-169" target="RD9zDMc17LQN0rB9lxzA-177">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="RD9zDMc17LQN0rB9lxzA-169" value="&lt;span style=&quot;text-align: start; font-size: 12px;&quot;&gt;kb_mitigations&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fddede;strokeColor=#000000;container=0;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="1040" y="460" width="90" height="30" as="geometry" />
         </mxCell>
@@ -411,7 +414,12 @@
           <mxGeometry x="1275" y="530" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RD9zDMc17LQN0rB9lxzA-181" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.568;entryY=-0.011;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="RD9zDMc17LQN0rB9lxzA-169" target="RD9zDMc17LQN0rB9lxzA-173">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1085" y="500" />
+              <mxPoint x="1182" y="500" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
