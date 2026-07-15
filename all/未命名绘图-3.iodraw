@@ -564,7 +564,7 @@
           <mxGeometry x="300" width="116" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RD9zDMc17LQN0rB9lxzA-237" value="&lt;span style=&quot;text-align: start;&quot;&gt;kb_dataset_releases&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e8eaf1;strokeColor=#000000;container=0;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="1110" y="770" width="130" height="29.45" as="geometry" />
+          <mxGeometry x="1320" y="873.28" width="130" height="29.45" as="geometry" />
         </mxCell>
         <mxCell id="RD9zDMc17LQN0rB9lxzA-238" value="&lt;span style=&quot;text-align: start;&quot;&gt;kb_dataset_releases&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e8eaf1;strokeColor=#000000;container=0;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="1510" y="920" width="130" height="29.45" as="geometry" />
@@ -578,8 +578,8 @@
         <mxCell id="RD9zDMc17LQN0rB9lxzA-241" value="&lt;span style=&quot;text-align: start;&quot;&gt;kb_dataset_releases&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e8eaf1;strokeColor=#000000;container=0;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="1100" y="930" width="130" height="29.45" as="geometry" />
         </mxCell>
-        <mxCell id="RD9zDMc17LQN0rB9lxzA-242" value="&lt;span style=&quot;text-align: start;&quot;&gt;kb_dataset_releases&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e8eaf1;strokeColor=#000000;container=0;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="1310" y="730.55" width="130" height="29.45" as="geometry" />
+        <mxCell id="RD9zDMc17LQN0rB9lxzA-242" value="&lt;span style=&quot;text-align: start;&quot;&gt;kb_split_groups&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e8eaf1;strokeColor=#000000;container=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="1290" y="760" width="130" height="29.45" as="geometry" />
         </mxCell>
         <mxCell id="RD9zDMc17LQN0rB9lxzA-243" value="&lt;span style=&quot;text-align: start;&quot;&gt;kb_dataset_releases&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e8eaf1;strokeColor=#000000;container=0;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="1460" y="789.45" width="130" height="29.45" as="geometry" />
