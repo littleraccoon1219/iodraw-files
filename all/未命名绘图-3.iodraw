@@ -564,7 +564,7 @@
           <mxGeometry x="300" width="116" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RD9zDMc17LQN0rB9lxzA-237" value="&lt;span style=&quot;text-align: start;&quot;&gt;kb_split_leakage_audits&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e8eaf1;strokeColor=#000000;container=0;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="1320" y="873.28" width="140" height="29.45" as="geometry" />
+          <mxGeometry x="1280" y="830" width="140" height="29.45" as="geometry" />
         </mxCell>
         <mxCell id="RD9zDMc17LQN0rB9lxzA-238" value="&lt;span style=&quot;text-align: start;&quot;&gt;kb_dataset_releases&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e8eaf1;strokeColor=#000000;container=0;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="1510" y="920" width="130" height="29.45" as="geometry" />
@@ -573,10 +573,13 @@
           <mxGeometry x="1330" y="959.45" width="140" height="29.45" as="geometry" />
         </mxCell>
         <mxCell id="RD9zDMc17LQN0rB9lxzA-240" value="&lt;span style=&quot;text-align: start;&quot;&gt;kb_release_artifacts&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e8eaf1;strokeColor=#000000;container=0;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="1110" y="873.28" width="130" height="29.45" as="geometry" />
+          <mxGeometry x="1100" y="830" width="130" height="29.45" as="geometry" />
         </mxCell>
         <mxCell id="RD9zDMc17LQN0rB9lxzA-241" value="&lt;span style=&quot;text-align: start;&quot;&gt;kb_quality_check_runs&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e8eaf1;strokeColor=#000000;container=0;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="1150" y="959.45" width="130" height="29.45" as="geometry" />
+        </mxCell>
+        <mxCell id="RD9zDMc17LQN0rB9lxzA-244" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RD9zDMc17LQN0rB9lxzA-242" target="RD9zDMc17LQN0rB9lxzA-237">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RD9zDMc17LQN0rB9lxzA-242" value="&lt;span style=&quot;text-align: start;&quot;&gt;kb_split_groups&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e8eaf1;strokeColor=#000000;container=0;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="1300" y="760" width="100" height="29.45" as="geometry" />
