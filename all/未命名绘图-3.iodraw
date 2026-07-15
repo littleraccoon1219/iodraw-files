@@ -266,9 +266,12 @@
         <mxCell id="RD9zDMc17LQN0rB9lxzA-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="RD9zDMc17LQN0rB9lxzA-13" target="RD9zDMc17LQN0rB9lxzA-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RD9zDMc17LQN0rB9lxzA-256" style="edgeStyle=isometricEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;elbow=vertical;" edge="1" parent="1" source="RD9zDMc17LQN0rB9lxzA-13">
+        <mxCell id="RD9zDMc17LQN0rB9lxzA-256" style="edgeStyle=isometricEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;elbow=vertical;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RD9zDMc17LQN0rB9lxzA-13" target="RD9zDMc17LQN0rB9lxzA-253">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="900" y="660" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="880" y="590" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="RD9zDMc17LQN0rB9lxzA-13" value="&lt;font size=&quot;1&quot; face=&quot;Times New Roman&quot;&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;kb_records&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1e66a4;fontColor=#ffffff;strokeColor=#006EAF;container=0;" vertex="1" parent="1">
