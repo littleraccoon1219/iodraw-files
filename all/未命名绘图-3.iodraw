@@ -454,7 +454,7 @@
         <mxCell id="RD9zDMc17LQN0rB9lxzA-199" value="&lt;span style=&quot;text-align: start;&quot;&gt;kb_attack_edges&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f6fadc;strokeColor=#000000;container=0;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="700" y="690" width="110" height="29.45" as="geometry" />
         </mxCell>
-        <mxCell id="RD9zDMc17LQN0rB9lxzA-200" value="&lt;span style=&quot;text-align: start;&quot;&gt;kb_attack_chains&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f6fadc;strokeColor=#000000;container=0;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="RD9zDMc17LQN0rB9lxzA-200" value="&lt;span style=&quot;text-align: start;&quot;&gt;kb_attack_step_records&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f6fadc;strokeColor=#000000;container=0;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="425" y="770" width="110" height="29.45" as="geometry" />
         </mxCell>
         <mxCell id="RD9zDMc17LQN0rB9lxzA-201" value="&lt;span style=&quot;text-align: start;&quot;&gt;kb_attack_chains&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f6fadc;strokeColor=#000000;container=0;fontSize=12;" vertex="1" parent="1">
