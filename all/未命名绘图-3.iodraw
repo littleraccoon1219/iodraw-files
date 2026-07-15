@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="RD9zDMc17LQN0rB9lxzA-230" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=7;" vertex="1" parent="1">
+        <mxCell id="RD9zDMc17LQN0rB9lxzA-230" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=7;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="360" y="800" width="680" height="160" as="geometry" />
         </mxCell>
         <mxCell id="RD9zDMc17LQN0rB9lxzA-141" value="" style="group" vertex="1" connectable="0" parent="1">
@@ -543,7 +543,7 @@
           <mxGeometry x="560" y="840" width="150" height="29.45" as="geometry" />
         </mxCell>
         <mxCell id="RD9zDMc17LQN0rB9lxzA-231" value="&lt;span style=&quot;caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: 宋体; font-size: 18px; font-style: normal; font-variant-caps: normal; font-weight: 700; letter-spacing: normal; orphans: auto; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration: none; display: inline !important; float: none;&quot;&gt;8.可复现实验&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="1040" width="110" height="40" as="geometry" />
+          <mxGeometry x="655" y="801" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
