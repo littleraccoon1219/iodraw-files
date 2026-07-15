@@ -545,6 +545,9 @@
         <mxCell id="RD9zDMc17LQN0rB9lxzA-232" value="8.可复现实验" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="660" y="806" width="116" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="RD9zDMc17LQN0rB9lxzA-233" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.217;entryY=-0.015;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="RD9zDMc17LQN0rB9lxzA-210" target="RD9zDMc17LQN0rB9lxzA-230">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
