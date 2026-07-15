@@ -573,7 +573,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RD9zDMc17LQN0rB9lxzA-237" value="&lt;span style=&quot;text-align: start;&quot;&gt;kb_split_leakage_audits&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e8eaf1;strokeColor=#000000;container=0;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="1280" y="812" width="140" height="29.45" as="geometry" />
+          <mxGeometry x="1280" y="813" width="140" height="29.45" as="geometry" />
         </mxCell>
         <mxCell id="RD9zDMc17LQN0rB9lxzA-239" value="&lt;span style=&quot;text-align: start;&quot;&gt;kb_quality_check_results&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e8eaf1;strokeColor=#000000;container=0;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="1340" y="870.0000000000001" width="140" height="29.45" as="geometry" />
@@ -599,7 +599,8 @@
         <mxCell id="RD9zDMc17LQN0rB9lxzA-250" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;dashed=1;strokeWidth=2;" edge="1" parent="1" source="RD9zDMc17LQN0rB9lxzA-230" target="RD9zDMc17LQN0rB9lxzA-237">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1315" y="850" />
+              <mxPoint x="1040" y="860" />
+              <mxPoint x="1315" y="860" />
             </Array>
           </mxGeometry>
         </mxCell>
