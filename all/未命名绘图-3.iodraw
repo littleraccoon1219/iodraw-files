@@ -510,13 +510,13 @@
           <mxGeometry x="365" y="840" width="150" height="29.45" as="geometry" />
         </mxCell>
         <mxCell id="RD9zDMc17LQN0rB9lxzA-218" value="&lt;span style=&quot;text-align: start;&quot;&gt;kb_experiment_observations&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fae3f1;strokeColor=#000000;container=0;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="700" y="920" width="170" height="29.45" as="geometry" />
+          <mxGeometry x="820" y="920" width="170" height="29.45" as="geometry" />
         </mxCell>
         <mxCell id="RD9zDMc17LQN0rB9lxzA-219" value="&lt;span style=&quot;text-align: start;&quot;&gt;kb_experiment_artifacts&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fae3f1;strokeColor=#000000;container=0;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="435" y="920" width="150" height="29.45" as="geometry" />
+          <mxGeometry x="520" y="920" width="150" height="29.45" as="geometry" />
         </mxCell>
         <mxCell id="RD9zDMc17LQN0rB9lxzA-220" value="&lt;span style=&quot;text-align: start;&quot;&gt;kb_experiment_steps&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fae3f1;strokeColor=#000000;container=0;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="920" y="840" width="130" height="29.45" as="geometry" />
+          <mxGeometry x="900" y="840" width="130" height="29.45" as="geometry" />
         </mxCell>
         <mxCell id="RD9zDMc17LQN0rB9lxzA-221" value="&lt;span style=&quot;text-align: start;&quot;&gt;kb_experiments&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fae3f1;strokeColor=#000000;container=0;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="754" y="840" width="105" height="29.45" as="geometry" />
