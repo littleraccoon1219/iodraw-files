@@ -563,6 +563,18 @@
         <mxCell id="RD9zDMc17LQN0rB9lxzA-232" value="8.可复现实验" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="RD9zDMc17LQN0rB9lxzA-236">
           <mxGeometry x="300" width="116" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="RD9zDMc17LQN0rB9lxzA-237" value="&lt;span style=&quot;text-align: start;&quot;&gt;kb_dataset_releases&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e8eaf1;strokeColor=#000000;container=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="770" width="130" height="29.45" as="geometry" />
+        </mxCell>
+        <mxCell id="RD9zDMc17LQN0rB9lxzA-238" value="&lt;span style=&quot;text-align: start;&quot;&gt;kb_dataset_releases&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e8eaf1;strokeColor=#000000;container=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="780" width="130" height="29.45" as="geometry" />
+        </mxCell>
+        <mxCell id="RD9zDMc17LQN0rB9lxzA-239" value="&lt;span style=&quot;text-align: start;&quot;&gt;kb_dataset_releases&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e8eaf1;strokeColor=#000000;container=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="790" width="130" height="29.45" as="geometry" />
+        </mxCell>
+        <mxCell id="RD9zDMc17LQN0rB9lxzA-240" value="&lt;span style=&quot;text-align: start;&quot;&gt;kb_dataset_releases&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e8eaf1;strokeColor=#000000;container=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="800" width="130" height="29.45" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
