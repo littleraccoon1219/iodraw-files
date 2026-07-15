@@ -619,7 +619,7 @@
         <mxCell id="RD9zDMc17LQN0rB9lxzA-257" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RD9zDMc17LQN0rB9lxzA-253" target="RD9zDMc17LQN0rB9lxzA-13">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="910" y="600" />
+              <mxPoint x="890" y="590" />
             </Array>
           </mxGeometry>
         </mxCell>
