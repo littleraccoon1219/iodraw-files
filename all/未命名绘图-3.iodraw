@@ -452,13 +452,13 @@
           <mxGeometry x="550" y="680" width="110" height="29.45" as="geometry" />
         </mxCell>
         <mxCell id="RD9zDMc17LQN0rB9lxzA-199" value="&lt;span style=&quot;text-align: start;&quot;&gt;kb_attack_edges&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f6fadc;strokeColor=#000000;container=0;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="720" y="680.36" width="110" height="29.45" as="geometry" />
+          <mxGeometry x="705" y="680.36" width="110" height="29.45" as="geometry" />
         </mxCell>
         <mxCell id="RD9zDMc17LQN0rB9lxzA-200" value="&lt;span style=&quot;text-align: start;&quot;&gt;kb_attack_step_records&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f6fadc;strokeColor=#000000;container=0;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="440" y="740.55" width="135" height="29.45" as="geometry" />
         </mxCell>
         <mxCell id="RD9zDMc17LQN0rB9lxzA-202" value="&lt;span style=&quot;text-align: start;&quot;&gt;kb_attack_step_conditions&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f6fadc;strokeColor=#000000;container=0;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="585" y="770" width="155" height="29.45" as="geometry" />
+          <mxGeometry x="660" y="740.55" width="155" height="29.45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
